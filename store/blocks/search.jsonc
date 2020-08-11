@@ -36,7 +36,11 @@
     "blocks": ["gallery", "not-found"]
   },
   "gallery": {
-    "blocks": ["product-summary.shelf", "product-summary-sku-selector"]
+    "blocks": ["product-summary.shelf"]
+  },
+
+  "product-summary.shelf": {
+    "children": ["product-summary-sku-selector"]
   },
 
   "flex-layout.row#top": {
