@@ -36,7 +36,7 @@
     "blocks": ["gallery", "not-found"]
   },
   "gallery": {
-    "blocks": ["product-summary.shelf"]
+    "blocks": ["product-summary.shelf", "product-summary-sku-selector"]
   },
 
   "flex-layout.row#top": {
